@@ -1,4 +1,4 @@
-CONTAS — ATUALIZAÇÃO
+CONTAS PAGAS — ATUALIZAÇÃO
 
 Novidades: busca e filtros; parcelas com fim definido; desfazer pagamento;
 PDF mensal/anual com perfil; histórico das últimas 300 alterações e recuperação
