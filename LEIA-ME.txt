@@ -1,0 +1,26 @@
+CONTAS — ATUALIZAÇÃO
+
+Novidades: busca e filtros; parcelas com fim definido; desfazer pagamento;
+PDF mensal/anual com perfil; histórico das últimas 300 alterações e recuperação
+de contas excluídas; notificações por push.
+
+USO
+Abra index.html para usar as funções locais e o login na nuvem.
+Preserve seu arquivo anterior até conferir o backup no perfil. Dados locais
+pertencem ao navegador e ao endereço usado; entre na mesma conta para restaurar.
+
+AVISOS COM O APP FECHADO
+Publique TODOS os arquivos deste pacote, juntos, no mesmo endereço HTTPS do app.
+Abra esse endereço, instale/adicione à tela inicial, entre no perfil, aguarde
+confirmar o backup e selecione Ativar avisos. Autorize as notificações.
+No iPhone/iPad, abra o app adicionado à tela inicial para ativar.
+Um arquivo HTML aberto em Downloads não recebe push com o app fechado.
+
+O servidor verifica a cada 15 minutos e envia até um resumo por dia, a partir
+das 9h no fuso do dispositivo registrado. Usa o último backup salvo na nuvem,
+as contas vencidas e o prazo de lembrete de cada conta. A entrega depende da
+conexão, permissões e configurações de bateria do aparelho; não é horário exato.
+A entrega em dispositivo real ainda precisa ser validada após a instalação.
+
+O histórico começa nas alterações feitas nesta versão. O PDF considera o mês
+de vencimento e o status atual da conta; filtros da lista não limitam o PDF.
